@@ -1,8 +1,8 @@
-# Fully Convolutional Networks For Semantic Segmentation
+                              Fully Convolutional Networks For Semantic Segmentation
 
 Le projet est basé sur l'article (Fully Convolutional Networks for Semantic Segmantation) ou en Français réseau entièrement convolutif ou encore FCN.
 
-### Problématique: construire à partir d'une architecture CNN, des réseaux FCN
+Problématique: construire à partir d'une architecture CNN, des réseaux FCN
 
 Dans ce répertoire est illustré les travails éfféctués:
 
