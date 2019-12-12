@@ -1,0 +1,21 @@
+Fully Convolutional Networks For Semantic Segmentation
+
+Le projet est basé sur l'article (Fully Convolutional Networks for Semantic Segmantation) ou en Français réseau entièrement convolutif ou encore FCN.
+
+Problématique: construire à partir d'une architecture CNN, des réseaux FCN
+
+Dans ce répertoire est illustré les travails éfféctués:
+
+- datasets1 : Les jeux de données composés d'images en extérieur.
+              Il y 4 fichiers dont 2 pour l'entrainement et 2 pour le test
+              
+              - Entrainement : Masque de vérité et Images réelles
+              - Test : Masque vérité et Images réelles
+              
+- Training.ipynb : fichier jupiter qui illustre le code d'entrainement
+
+- Testing.ipynb : fichier jupiter qui illustre le code de test
+
+- RésuméBiblio.pdf : Résumé de l'article (Fully Convolutional Networks For Semantic Segmentation)
+
+- présentation.pdf : la présentation converti en fichier pdf du power point
